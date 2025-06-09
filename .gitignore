@@ -1,5 +1,4 @@
 .cc/
 .vscode/
 gitupdate.sh
-download_data.py
 data/
