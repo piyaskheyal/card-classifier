@@ -5,7 +5,7 @@ api = KaggleApi()
 api.authenticate()
 
 # Set your target folder
-target_dir = "/home/kheyal/dev/card-classifier/data"
+target_dir = "card-classifier/data"
 os.makedirs(target_dir, exist_ok=True)
 
 # Download dataset
