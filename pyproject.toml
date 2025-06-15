@@ -9,4 +9,5 @@ dependencies = [
     "kaggle>=1.7.4.5",
     "matplotlib>=3.10.3",
     "pandas>=2.3.0",
+    "tqdm>=4.67.1",
 ]

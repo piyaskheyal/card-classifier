@@ -2,3 +2,4 @@
 .vscode/
 gitupdate.sh
 data/
+card_classifier.pth

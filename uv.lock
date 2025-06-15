@@ -41,6 +41,7 @@ dependencies = [
     { name = "kaggle" },
     { name = "matplotlib" },
     { name = "pandas" },
+    { name = "tqdm" },
 ]
 
 [package.metadata]
@@ -49,6 +50,7 @@ requires-dist = [
     { name = "kaggle", specifier = ">=1.7.4.5" },
     { name = "matplotlib", specifier = ">=3.10.3" },
     { name = "pandas", specifier = ">=2.3.0" },
+    { name = "tqdm", specifier = ">=4.67.1" },
 ]
 
 [[package]]
