@@ -3,3 +3,4 @@
 gitupdate.sh
 data/
 card_classifier.pth
+__pycache__/
